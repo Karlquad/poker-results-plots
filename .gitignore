@@ -1,0 +1,20 @@
+# Ignore the virtual environment
+.venv/
+
+# Ignore PyCharm settings
+.idea/
+*.iml
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Windows junk
+Thumbs.db
+filebrowser.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+*-checkpoint.py
+*-checkpoint.json

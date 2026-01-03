@@ -1,0 +1,34 @@
+{
+    "2022": {
+        "buyin": 5,
+        "bounty": 5,
+        "rebuy_cost": 10,
+        "addon_cost": 5,
+        "ko_value": 5,
+        "payouts": {"1": 44, "2": 25, "3": 14, "4": 7}
+    },
+    "2023": {
+        "buyin": 5,
+        "bounty": 5,
+        "rebuy_cost": 10,
+        "addon_cost": 5,
+        "ko_value": 5,
+        "payouts": {"1": 69, "2": 43, "3": 23}
+    },
+    "2024": {
+        "buyin": 5,
+        "bounty": 2,
+        "rebuy_cost": 7,
+        "addon_cost": 5,
+        "ko_value": 2,
+        "payouts": {"1": 60, "2": 50, "3": 20, "4": 10}
+    },
+    "2025": {
+        "buyin": 5,
+        "bounty": 2,
+        "rebuy_cost": 7,
+        "addon_cost": 5,
+        "ko_value": 2,
+        "payouts": {"1": 54, "2": 52, "3": 20, "4": 12, "5": 7}
+    }
+}
