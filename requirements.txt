@@ -1,5 +1,6 @@
 pandas
 matplotlib
+jupyter
 seaborn
 pandas
-jupyter
+
